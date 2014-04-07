@@ -1,0 +1,9 @@
+{
+  "name": "mediaelementHangExample",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.0",
+    "mediaelement": "~2.14.0"
+  },
+  "devDependencies": {}
+}
